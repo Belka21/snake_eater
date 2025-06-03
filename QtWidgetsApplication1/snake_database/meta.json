@@ -1,0 +1,38 @@
+{
+    "Бляяя": {
+        "images": [
+            "snake_database/data/images/Бляяя/photo_0.jpg"
+        ],
+        "points": "snake_database/data/points/Бляяя.json"
+    },
+    "Епппвфыва": {
+        "images": [
+            "snake_database/data/images/Епппвфыва/photo_0.jpg"
+        ],
+        "points": "snake_database/data/points/Епппвфыва.json"
+    },
+    "Лёня": {
+        "images": [
+            "snake_database/data/images/Лёня/photo_0.jpg"
+        ],
+        "points": "snake_database/data/points/Лёня.json"
+    },
+    "Миша": {
+        "images": [
+            "snake_database/data/images/Миша/photo_0.jpg"
+        ],
+        "points": "snake_database/data/points/Миша.json"
+    },
+    "Саня": {
+        "images": [
+            "snake_database/data/images/Саня/photo_0.jpg"
+        ],
+        "points": "snake_database/data/points/Саня.json"
+    },
+    "Слалане": {
+        "images": [
+            "snake_database/data/images/Слалане/photo_0.jpg"
+        ],
+        "points": "snake_database/data/points/Слалане.json"
+    }
+}
